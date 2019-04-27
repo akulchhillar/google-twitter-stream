@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "norse-breaker-238906",
+  "private_key_id": "13adb499c5693b47cec9bd3d47c38321d118d240",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJj6OKj4KTtxKG\n0Zg+iz6AyhNWkS/s9DUuknPtFxLd0tYhE8Y2P3xjSmHCz8WXZZfA4neAB3o/U+Ez\nDrKB1Pt/++gUbHnyJTMrErQ8k5oCGCs5EJqPATGy6WbtVJMERU9eWRS3lpnVCIOG\nf6cZUegkAvsO04GBeyoAnV8pkmwaOxhE96/ooSQrBdEUK3A81CsTuXyPbkmPX95O\n0hawlbB+yy8ZRLZgDBzJ0DxW5ok7zoxpPnnRpsqKH/mBxHGplGDMYhPiQcXbL7jQ\nhYuXFUZKT9yR7Ay5lqvLaWGtxYUB7VsFWtGXwO6gqPDg2mcYJdh16lMCA/3iNeqa\n8gieMtYrAgMBAAECggEAVh1oYequfy3YXIFv6kjTi3LKkFG3iCVOE3e+z6zsApnx\nonAwXz0Ah+tfmTvrz6M4EtCu/aQ0Npo/vPCqk43LZgLaRN+TukDqe5yiJL9rLTnm\nPZs6bZ60/Rt7PirEJS73mfe1Qjq1vq7EgtJHMiosZDZhzRPQYOGeMGUMI1bLmOij\nwll6QDcrzd4/Nfb28oPQNOBI65sjNm5AouNNXN6B7fiesgNsH320WBvyk6HNw4ar\nSz8tVa8lrEeOY0O6UxqpsVZg68wePc80tZgNSoZN3vOBCWvXtTnSBg1hB7FkLTq/\nhgl9BgTLjHqNX/2iu26oIDaexfUgIVOlURZnybruAQKBgQD3ofVHyafl8hWBxoJu\n6cJ60nZp9fecdvqIZPWdQKR+XVc93yCb3UBtydQMsFnHZgM+AjtpUAPiG3kvwT5C\nejqPYgDAo3MHGwLiHHvx+saLbO20QqkXJSRqiDkMa62Itv2rgRuQGGXz656jsO12\nbltWitSaiPp9gy1ekwHVkE46aQKBgQDQXyh42vAQPhz0IPyQAz64OKBsT2fpfzin\nYl1Zi6C/6eoGfNP0vhkInrPSw1P8TPn7cN0ZF8H2hHkyGeKor5kK8UFEmMzl3U8x\nW0WNAaaSJjicx/nOXZM/zP7S3wk/mMUlamsdE6wnUAwc9nsa216EH3dy30FTsfFf\nhFH7wcyxcwKBgFd83t2X/zucRcDt01NAPzeJd9CD2BFtb6IUmToPho4miBYR6MFo\nb8TaE5LQE0gBYI/d1gOlA1o0/qHCki6GZH4Xz9A/bvpJrsEX8ypQwSitOWYATyEg\nPDdvHUioGk086W5YVNaZ6Bs/WXLXpW28G4T905MtZeJGIBdTtMgxDZJRAoGBAMhX\nJY+FWRkUzzu913cTV6NB9qQMeKkcg7kTrxMgV28NlM+mBxgiCemqxNRYrxA+Zn9l\nVX8Bw6CkX+5WywFKy8ekjA9LJn2/mZun2KgpNSEBlJ7Q+pJ6j8/g5gSTIs49sRc3\nSUNMndGyeeMC7Pu2fRplMrCEjMfOp3chvr1i6M6XAoGBANxhEDMWO9RIR0B1KdP6\nlf0KBQTeNZ3QCZsrvpoNf/RwvK0JKaL/GVO7z7R3jZ6SYRMpmrZHpNtHRvD7WxAV\nREBbCor3drCI3erxaDRXAz7IGwFUyw0vkXwsrv/YMzokcBhUQfFt62xIssOOnJUT\nLpuFtnSfOiSYej6Cbd8C/6cg\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-twitter@norse-breaker-238906.iam.gserviceaccount.com",
+  "client_id": "112137883959187683661",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-twitter%40norse-breaker-238906.iam.gserviceaccount.com"
+}
